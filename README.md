@@ -9,4 +9,10 @@ In GWAS Manhattan plots, genomic coordinates are displayed along the **x-axis**,
 
 ![640px-Manhattan_Plot](https://user-images.githubusercontent.com/97247515/163194650-eaacabb0-425d-4788-993f-aa4652b46348.png)
 
+[How to create a Manhattan plots using Python]()
+
 It is a good way to visualize thousands to millions of SNPs on a genome-scale. The lowest the p value (higher −log10[p]), highest is the association of a given SNP with trait or disease.
+
+**Heatmap** is kind of continuous colormap where each color represents a specific set of values. and a way to visualize and identify statistically significant gene expression changes among hundreds of thousands of genes from different conditions.  
+
+[How to create a heatmap using Python]()
