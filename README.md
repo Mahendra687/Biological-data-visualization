@@ -14,3 +14,5 @@ It is a good way to visualize thousands to millions of SNPs on a genome-scale. T
 
 **Heatmap** is kind of continuous colormap where each color represents a specific set of values. and a way to visualize and identify statistically significant gene expression changes among hundreds of thousands of genes from different conditions. 
 [How to create a heatmap using Python]()
+
+#### References:
